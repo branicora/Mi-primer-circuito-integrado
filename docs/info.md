@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Funciona como una contraseña que analiza el orden de entrada de un numero en binario
 
 ## How to test
 
-Explain how to use your project
-
+ probandola
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+nada
